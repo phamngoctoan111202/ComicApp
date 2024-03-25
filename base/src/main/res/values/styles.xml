@@ -1,0 +1,13 @@
+<resources>
+    <color name="yourPrimaryColor">#FFDE00</color>
+    <color name="yourPrimaryDarkColor">#FFDE00</color>
+    <color name="yourAccentColor">#FFDE00</color>
+
+    <style name="Theme.ComicApp" parent="Theme.MaterialComponents.Light">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/yourPrimaryColor</item>
+        <item name="colorPrimaryDark">@color/yourPrimaryDarkColor</item>
+        <item name="colorAccent">@color/yourAccentColor</item>
+    </style>
+</resources>

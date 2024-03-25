@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812180684456",
+    "project_id": "comicapplication-9e237",
+    "storage_bucket": "comicapplication-9e237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812180684456:android:d45ef46ee3274fdee60c9d",
+        "android_client_info": {
+          "package_name": "com.noatnoat.comicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHs8MqNRym2n-ddWOsqPh-tAvtVPmHs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

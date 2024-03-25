@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ComicApp</string>
+
+    <string name="feature_album">feature album</string>
+    <string name="feature_favourite">feature favourite</string>
+    <string name="feature_profile">feature profile</string>
+
+    <string name="discover">Discover</string>
+    <string name="genres">Genres</string>
+    <string name="premium">Premium</string>
+    <string name="library">Library</string>
+    <string name="profile">Profile</string>
+
+
+</resources>

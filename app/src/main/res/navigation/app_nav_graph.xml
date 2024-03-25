@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/feature_discover_nav">
+
+    <include app:graph="@navigation/feature_discover_nav"/>
+
+    <include app:graph="@navigation/feature_genres_nav"/>
+    <include app:graph="@navigation/feature_account_nav" />
+    <include app:graph="@navigation/feature_library_nav"/>
+
+
+</navigation>
