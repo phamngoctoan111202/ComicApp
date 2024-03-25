@@ -31,3 +31,6 @@ The application follows the Clean Architecture principles, promoting modularity,
 
 Dependency management is centralized using Gradle versions catalog. This ensures consistency across modules and facilitates easier dependency updates. Dependencies are shared between modules, reducing the need for redundant declarations.
 
+# Demo Link
+
+To experience ComicApp in action, please visit [Demo ComicApp](https://www.youtube.com/watch?v=R5eiUTuaSlk).
